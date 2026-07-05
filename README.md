@@ -4,3 +4,4 @@ Applied Technologies - Java, Java Swing, JDBC, MySQL, SQL, MVC, DAO, Object-Orie
 Team of developers - Kevyn (me).
 Software objective – book lookup, search, lending, and availability.
 System features - User management, user research, data persistence, graphical user interface, system organization, CRUD operations.
+commit here. 
